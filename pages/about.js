@@ -1,12 +1,12 @@
 import Link from 'next/link';
 
-function Home() {
+function About() {
   return (
     <div>
       <style jsx>{`
         a,
         h2 {
-          margin: 3.5rem auto;
+          margin: 3.5rem 0;
 
           color: #9ac6c9;
           text-align: center;
@@ -20,13 +20,12 @@ function Home() {
           text-shadow: 0 2px 10px rgba(246, 73, 167, 0.9);
         }
       `}</style>
-      <h2>Welcome to Next.js!</h2>
-
-      <Link href="/about">
-        <a>About</a>
+      <h2>This is about page made by Next.js!</h2>
+      <Link href="/">
+        <a>Home</a>
       </Link>
     </div>
   );
 }
 
-export default Home;
+export default About;
