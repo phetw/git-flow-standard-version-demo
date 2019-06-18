@@ -1,15 +1,21 @@
 {
   "name": "git-flow-standard-version-demo",
   "version": "0.1.0",
+  "license": "MIT",
   "description": "",
-  "main": "index.js",
+  "author": "Wasuwat Limsuparhat<wasuwat.se@gmail.com>",
   "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
     "release": "standard-version"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "standard-version": "^6.0.1"
+  },
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   }
 }
