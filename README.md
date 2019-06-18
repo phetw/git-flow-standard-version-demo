@@ -1,1 +1,1 @@
-git-flow-standard-version-demo
+# git-flow & standard-version demo
