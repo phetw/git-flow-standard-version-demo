@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.4.1](https://github.com/rappad/git-flow-standard-version-demo/compare/v0.4.0...v0.4.1) (2019-06-18)
+
+
+### Bug Fixes
+
+* skip standard version from tagging ([13d3e03](https://github.com/rappad/git-flow-standard-version-demo/commit/13d3e03))
+
+
+
 ## [0.4.0](https://github.com/rappad/git-flow-standard-version-demo/compare/v0.3.0...v0.4.0) (2019-06-18)
 
 
