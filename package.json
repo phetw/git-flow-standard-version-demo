@@ -8,9 +8,12 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "release": "standard-version"
+    "release": "standard-version",
+    "get-next-version": "node ./next-version.js"
   },
   "devDependencies": {
+    "conventional-recommended-bump": "^5.0.0",
+    "semver": "^6.1.1",
     "standard-version": "^6.0.1"
   },
   "dependencies": {
