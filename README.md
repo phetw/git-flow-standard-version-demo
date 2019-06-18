@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to Git-flow &amp; standard-version demo 👋</h1>
-<p>
-  <img src="https://img.shields.io/badge/version-0.2.0-blue.svg?cacheSeconds=2592000" />
-</p>
+
+![GitHub package.json version](https://img.shields.io/github/package-json/v/rappad/git-flow-standard-version-demo.svg)
 
 ## Install
 
