@@ -19,7 +19,7 @@
   "devDependencies": {
     "conventional-recommended-bump": "^5.0.1",
     "semver": "^6.3.0",
-    "standard-version": "^6.0.1"
+    "standard-version": "^8.0.1"
   },
   "dependencies": {
     "next": "^8.1.0",
